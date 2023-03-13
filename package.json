@@ -1,0 +1,36 @@
+{
+  "name": "softies-react-icons",
+  "version": "1.0.0",
+  "description": "A collection of SVG icons adapted from the Softies icon set by Robbie Pearce, designed for React.",
+  "repository": "git@github.com:Hraph/Softies-React-Icons.git",
+  "homepage": "https://github.com/hraph/Softies-React-Icons#readme",
+  "author": "Hraph",
+  "license": "Apache-2.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "prebuild": "ts-node src/generate.ts",
+    "build": "rollup --config rollup.config.mjs"
+  },
+  "dependencies": {
+    "@svgr/core": "^6.2.0",
+    "progress": "^2.0.3",
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/parser": "^7.21.2",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "@rollup/plugin-babel": "^6.0.3",
+    "@rollup/plugin-commonjs": "^24.0.1",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "@types/node": "^18.14.4",
+    "@types/progress": "^2.0.5",
+    "rollup": "^3.19.1",
+    "rollup-plugin-copy": "^3.4.0",
+    "ts-node": "^10.4.0"
+  }
+}
