@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>plug-socket-us</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-356.000000, -819.000000)">
+            <g id="328" transform="translate(356.000000, 819.000000)">
+                <rect id="Rectangle-234" stroke="#333333" stroke-width="2" x="3" y="3" width="18" height="18" rx="2"></rect>
+                <rect id="Rectangle-236" fill="#333333" x="8" y="8" width="2" height="4"></rect>
+                <rect id="Rectangle-236" fill="#333333" x="14" y="8" width="2" height="4"></rect>
+                <path d="M14,16 C14,14.8954305 13.1045695,14 12,14 C10.8954305,14 10,14.8954305 10,16 C10,16.2280074 10,17 10,17 L14,17 L14,16 Z" id="Oval-179" fill="#333333"></path>
+            </g>
+        </g>
+    </g>
+</svg>

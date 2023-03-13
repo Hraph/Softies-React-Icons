@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>snowman</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-532.000000, -555.000000)">
+            <g id="212" transform="translate(532.000000, 555.000000)">
+                <path d="M8.34913277,10.0262929 C6.34030756,11.2566231 5,13.4717887 5,16 C5,19.8659932 8.13400675,23 12,23 L12,23 C15.8659932,23 19,19.8659932 19,16 C19,13.4357121 17.6211682,11.1934677 15.5644653,9.97422745" id="Oval-115" stroke="#333333" stroke-width="2"></path>
+                <circle id="Oval-116" stroke="#333333" stroke-width="2" cx="12" cy="6" r="5"></circle>
+                <path d="M10.5,7.5 C10.5,7.5 10.5555556,8.5 12,8.5 C13.4444444,8.5 13.5,7.5 13.5,7.5" id="Path-156" stroke="#333333" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval-117" fill="#333333" cx="12" cy="15" r="1"></circle>
+                <circle id="Oval-117" fill="#333333" cx="10" cy="5" r="1"></circle>
+                <circle id="Oval-117" fill="#333333" cx="14" cy="5" r="1"></circle>
+                <circle id="Oval-117" fill="#333333" cx="12" cy="19" r="1"></circle>
+                <path d="M16,14 L22,8" id="Path-157" stroke="#333333" stroke-width="2" stroke-linecap="round"></path>
+                <polyline id="Path-158" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="20 7 20 10 23 10"></polyline>
+                <path d="M2,14 L8,8" id="Path-157" stroke="#333333" stroke-width="2" stroke-linecap="round" transform="translate(5.000000, 11.000000) scale(-1, 1) translate(-5.000000, -11.000000) "></path>
+                <polyline id="Path-158" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.500000, 8.500000) scale(-1, 1) translate(-2.500000, -8.500000) " points="1 7 1 10 4 10"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

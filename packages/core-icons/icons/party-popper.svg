@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>party-popper</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-532.000000, -731.000000)">
+            <g id="292" transform="translate(532.000000, 731.000000)">
+                <path d="M16,17 L5.47390664,21.5671526 C2.45075148,22.9107771 1.08724134,21.553707 2.4328474,18.5260934 L7,8" id="Path-225" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M11.5184001,14.3381155 C15.0257109,14.3381155 17.8372032,13.5356435 17.8372032,12.5021418 C17.8372032,11.4686401 15.0257109,10.5954748 11.5184001,10.5954748 C8.01108921,10.5954748 5.16785199,11.4332934 5.16785199,12.4667951 C5.16785199,13.5002968 8.01108921,14.3381155 11.5184001,14.3381155 Z" id="Oval-158" stroke="#333333" stroke-width="2" transform="translate(11.502528, 12.466795) rotate(-315.000000) translate(-11.502528, -12.466795) "></path>
+                <path d="M9,12.5 C9,12.5 12,7.75 10,3" id="Path-226" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M12,15 C12.9522223,13.7303703 15.717899,13.2667204 17.9946146,13.3532263 C19.3043236,13.4029899 20.4522223,13.6348148 21,14" id="Path-227" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M16,10 C16,10 13.6638302,6.16808491 15,5.5 C16,5 18,7.5 19,8 C20,8.5 17.5,4 18.5,3 C19.5,2 22,5 22,5" id="Path-228" stroke="#333333" stroke-width="2" stroke-linecap="round"></path>
+                <circle id="Oval-159" fill="#333333" cx="22" cy="11" r="1"></circle>
+                <circle id="Oval-159" fill="#333333" cx="19" cy="18" r="1"></circle>
+                <circle id="Oval-159" fill="#333333" cx="22.5" cy="16.5" r="1"></circle>
+                <circle id="Oval-159" fill="#333333" cx="22.5" cy="1.5" r="1"></circle>
+                <circle id="Oval-159" fill="#333333" cx="7.5" cy="5.5" r="1"></circle>
+                <circle id="Oval-159" fill="#333333" cx="14" cy="2" r="1"></circle>
+                <circle id="Oval-159" fill="#333333" cx="4.70001221" cy="4" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

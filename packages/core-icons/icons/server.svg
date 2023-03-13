@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>server</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-796.000000, -643.000000)">
+            <g id="258" transform="translate(796.000000, 643.000000)">
+                <ellipse id="Oval-140" stroke="#333333" stroke-width="2" cx="12" cy="6" rx="9" ry="3"></ellipse>
+                <path d="M3,10.5 C3,12.1568542 7.02943725,13.5 12,13.5 L12,13.5 C16.9705627,13.5 21,12.1568542 21,10.5" id="Oval-140" stroke="#333333"></path>
+                <path d="M3,14.5 C3,16.1568542 7.02943725,17.5 12,17.5 C16.9705627,17.5 21,16.1568542 21,14.5" id="Oval-140" stroke="#333333"></path>
+                <path d="M3,5.98958785 L3,19 C3,20.6568542 7.02943725,22 12,22 C16.9705627,22 21,20.6568542 21,19 L21,5.98958785" id="Oval-140" stroke="#333333" stroke-width="2"></path>
+                <circle id="Oval-141" fill="#333333" cx="18.5" cy="10.5" r="1"></circle>
+                <circle id="Oval-141" fill="#333333" cx="18.5" cy="14.5" r="1"></circle>
+                <circle id="Oval-141" fill="#333333" cx="18.5" cy="18.5" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

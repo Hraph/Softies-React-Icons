@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>playlist</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-268.000000, -511.000000)">
+            <g id="186" transform="translate(268.000000, 511.000000)">
+                <path d="M15,10.5 L15,16.5 L15,19.5 C15,20.8791807 13.8783107,22 12.5,22 C11.1208193,22 10,20.8783107 10,19.5 C10,18.1208193 11.1216893,17 12.5,17 L14,17 L15,17 L15,16 L15,10.0014849 L15,4.99810135 C15,4.35508383 15.5574842,3.64140537 16.1791125,3.48599829 L20.3059588,2.45428671 C20.7475351,2.34389263 21,2.54055298 21,2.99810135 L21,7.00189865 C21,7.64491617 20.4425158,8.35859463 19.8208875,8.51400171 L15.7574644,9.5298575 L15,9.71922359 L15,10.5 Z" id="Combined-Shape" stroke="#333333" stroke-width="2"></path>
+                <rect id="Rectangle-123" fill="#333333" x="2" y="5" width="10" height="2" rx="1"></rect>
+                <rect id="Rectangle-123" fill="#333333" x="2" y="9" width="10" height="2" rx="1"></rect>
+                <rect id="Rectangle-123" fill="#333333" x="2" y="13" width="8" height="2" rx="1"></rect>
+                <rect id="Rectangle-123" fill="#333333" x="2" y="17" width="5" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

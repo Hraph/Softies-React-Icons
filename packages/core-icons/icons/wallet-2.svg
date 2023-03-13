@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>wallet-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-92.000000, -379.000000)">
+            <g id="121" transform="translate(92.000000, 379.000000)">
+                <path d="M16,7 L20.9940809,7 C22.1019194,7 23,7.89706013 23,9.00585866 L23,18.9941413 C23,20.1019465 22.1103261,21 21.008845,21 L2.991155,21 C1.89147046,21 1,20.1029399 1,18.9941413 L1,9.00585866 L1,9.00585866 C1,7.89805351 1.88655484,7 3.00591905,7 L8,7" id="Rectangle-72" stroke="#333333" stroke-width="2"></path>
+                <path d="M16,4 L15,4 L15,5 L15,6 L15,7 L16,7 L20,7 L21,7 L21,6 L21,5.5 C21,4.68353133 20.3368834,4 19.5095215,4 L16,4 Z M8,7 L9,7 L9,6 L9,5 L9,4 L8,4 L3.49769878,4 C2.66175899,4 2,4.67226765 2,5.5 L2,6 L2,7 L3,7 L8,7 Z" id="Rectangle-71" stroke="#333333" stroke-width="2"></path>
+                <path d="M9,3 L15,3 L15,10.9942017 C15,12.6542582 13.6534829,14 12,14 L12,14 C10.3431458,14 9,12.6511841 9,10.9942017 L9,3 Z" id="Rectangle-70" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval-58" fill="#333333" cx="12" cy="11" r="1"></circle>
+                <rect id="Rectangle-73" fill="#333333" opacity="0.5" x="10" y="4" width="4" height="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

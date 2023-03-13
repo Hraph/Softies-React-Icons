@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>candy-cane</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-180.000000, -555.000000)" stroke="#333333">
+            <g id="204" transform="translate(180.000000, 555.000000)">
+                <path d="M16.9999998,7.00086237 C17,7.00043119 17,7.00043119 17,7 C17,3.6862915 14.3137085,1 11,1 C7.6862915,1 5,3.6862915 5,7 L5,9 C5,10.1045695 5.8954305,11 7,11 C8.1045695,11 9,10.1045695 9,9 L9,7 C9,5.8954305 9.8954305,5 11,5 C12.1045695,5 13,5.8954305 13,7 C13,7.00043119 13,7.00043119 13.0000002,7.00086237 C13,7.00044156 13,7.00044156 13,7.00087166 L13,20.9991283 C13,22.1067965 13.8945707,23 15,23 C16.1078829,23 17,22.1047241 17,20.9991283 L17,7.00087166 C17,7.00044348 17,7.00044348 16.9999998,7.00001532 L16.9999998,7.00086237 Z" id="Combined-Shape" stroke-width="2" fill-rule="nonzero"></path>
+                <path d="M14,20 L16.0615528,17.9384472" id="Path-143" stroke-linecap="square"></path>
+                <path d="M14,16 L16.0615528,13.9384472" id="Path-143" stroke-linecap="square"></path>
+                <path d="M14,12 L16.0615528,9.93844719" id="Path-143" stroke-linecap="square"></path>
+                <path d="M14,8 L16.0615528,5.93844719" id="Path-143" stroke-linecap="square"></path>
+                <path d="M6,9 L8.06155281,6.93844719" id="Path-143" stroke-linecap="square" transform="translate(7.030776, 7.969224) scale(-1, 1) translate(-7.030776, -7.969224) "></path>
+                <path d="M13,5 L14,3" id="Path-143" stroke-linecap="square"></path>
+                <path d="M10.5,4 L10.5,2" id="Path-145" stroke-linecap="square"></path>
+                <path d="M8.5,5.5 L7,3.5" id="Path-145" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

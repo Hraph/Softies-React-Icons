@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>briefcase</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-136.000000, -379.000000)">
+            <g id="122" transform="translate(136.000000, 379.000000)">
+                <rect id="Rectangle-40" stroke="#333333" stroke-width="2" x="1" y="6" width="22" height="16" rx="1"></rect>
+                <path d="M8,6.00189865 L8,3.99810135 C8,2.89458045 8.90195036,2 10.0085302,2 L13.9914698,2 C15.1007504,2 16,2.88670635 16,3.99810135 L16,6.00189865" id="Rectangle-42" stroke="#333333" stroke-width="2"></path>
+                <path d="M23,9 C23,9 22.9999992,14.0311289 17.9688711,14.0311289 C12.937743,14.0311289 9.00000019,14.0311289 4.99081969,14.0311289 C0.981639191,14.0311289 1,9 1,9" id="Path-45" stroke="#333333" stroke-width="2" stroke-linejoin="round"></path>
+                <rect id="Rectangle-74" fill="#333333" x="16" y="11" width="2" height="6" rx="1"></rect>
+                <rect id="Rectangle-74" fill="#333333" x="6" y="11" width="2" height="6" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

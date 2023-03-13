@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-664.000000, -115.000000)">
+            <g id="15" transform="translate(664.000000, 115.000000)">
+                <path d="M5.58578644,18 L8.29289322,20.7071068 L9,21.4142136 L9.70710678,20.7071068 L12.4142136,18 L20.0024554,18 C21.1070219,18 22,17.1024207 22,15.9975267 L22,6.00247329 C22,4.90415942 21.1082892,4 20.0066023,4 L3.99339768,4 C2.89058031,4 2,4.89859975 2,6.00247329 L2,15.9975267 C2,17.0970743 2.89547708,18 3.99895656,18 L5.58578644,18 Z" id="Rectangle-406" stroke="#333333" stroke-width="2" stroke-linejoin="round"></path>
+                <rect id="Rectangle-407" fill="#333333" x="6" y="8" width="12" height="2" rx="1"></rect>
+                <rect id="Rectangle-407" fill="#333333" x="6" y="12" width="12" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

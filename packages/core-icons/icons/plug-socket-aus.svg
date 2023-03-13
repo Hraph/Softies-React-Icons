@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>plug-socket-aus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-444.000000, -819.000000)">
+            <g id="330" transform="translate(444.000000, 819.000000)">
+                <rect id="Rectangle-234" stroke="#333333" stroke-width="2" x="3" y="3" width="18" height="18" rx="2"></rect>
+                <rect id="Rectangle-236" fill="#333333" x="11" y="7" width="2" height="4"></rect>
+                <rect id="Rectangle-236" fill="#333333" transform="translate(8.866025, 15.232051) rotate(-30.000000) translate(-8.866025, -15.232051) " x="7.8660254" y="13.2320508" width="2" height="4"></rect>
+                <rect id="Rectangle-236" fill="#333333" transform="translate(14.866025, 15.232051) rotate(-150.000000) translate(-14.866025, -15.232051) " x="13.8660254" y="13.2320508" width="2" height="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

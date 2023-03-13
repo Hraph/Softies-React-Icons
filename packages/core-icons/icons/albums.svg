@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>albums</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-312.000000, -511.000000)">
+            <g id="187" transform="translate(312.000000, 511.000000)">
+                <rect id="Rectangle-124" stroke="#333333" stroke-width="2" x="4" y="6" width="16" height="16" rx="1"></rect>
+                <path d="M16,10.9699569 L16,15.0009084 L16,16.4966223 C16,17.3250494 15.3342028,17.9966223 14.5,17.9966223 C13.6715729,17.9966223 13,17.330825 13,16.4966223 C13,15.6681951 13.6657972,14.9966223 14.5,14.9966223 L15,14.9966223 L15,12.1262761 L11,12.8925039 L11,16.5234614 L11,17.5417282 C11,18.3701554 10.3342028,19.0417282 9.5,19.0417282 C8.67157288,19.0417282 8,18.375931 8,17.5417282 C8,16.7133011 8.66579723,16.0417282 9.5,16.0417282 L10,16.0417282 L10,12.0385583 L10,11.0227163 C10,10.4684619 10.4315052,9.93649206 10.990778,9.82935949 L15.009222,9.05959867 C15.5564136,8.95478034 16,9.32204645 16,9.87337475 L16,10.9699569 Z" id="Combined-Shape" fill="#333333"></path>
+                <rect id="Rectangle-125" fill="#333333" x="5" y="3" width="14" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-125" fill="#333333" x="6" y="1" width="12" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

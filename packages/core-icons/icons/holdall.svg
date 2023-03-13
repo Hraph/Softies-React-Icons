@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>holdall</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-224.000000, -379.000000)">
+            <g id="124" transform="translate(224.000000, 379.000000)">
+                <path d="M1,11.999615 L1,18.000385 C1,19.6617657 2.33594272,21 3.99079514,21 L20.0092049,21 C21.656911,21 23,19.6541841 23,18.000385 L23,11.999615 C23,10.3382343 21.6640573,9 20.0092049,9 L3.99079514,9 C2.34308897,9 1,10.3458159 1,11.999615 Z" id="Rectangle-75" stroke="#333333" stroke-width="2"></path>
+                <path d="M16,12 L16,7 C16,4.790861 14.209139,3 12,3 C9.790861,3 8,4.790861 8,7 L8,12" id="Oval-21" stroke="#333333" stroke-width="2" stroke-linecap="round"></path>
+                <rect id="Rectangle-76" fill="#333333" x="18" y="10" width="2" height="10"></rect>
+                <rect id="Rectangle-76" fill="#333333" x="4" y="10" width="2" height="10"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

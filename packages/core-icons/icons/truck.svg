@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>truck</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4" transform="translate(-268.000000, -643.000000)">
+            <g id="246" transform="translate(268.000000, 643.000000)">
+                <path d="M3,16 L3,5.9955775 C3,5.44573523 3.44748943,5 3.99850233,5 L15.0014977,5 C15.5529553,5 16,5.44483697 16,5.9955775 L16,16" id="Rectangle-187" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M17,7 L19.2170509,7.0026083 C20.3243164,7.0026083 21.1223927,7.89846611 21,9 L21,16 L22,16 L20,16 M16,16 L9,16 M5,16 L2,16" id="Path-180" stroke="#333333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M16,9.99895656 C16,9.44724809 16.4426603,9 16.9989566,9 L18.0010434,9 C18.5527519,9 19,9.44266033 19,9.99895656 L19,11.0010434 C19,11.5527519 18.5573397,12 18.0010434,12 L16.9989566,12 C16.4472481,12 16,11.5573397 16,11.0010434 L16,9.99895656 Z" id="Rectangle-188" fill="#333333"></path>
+                <circle id="Oval-138" stroke="#333333" stroke-width="2" cx="7" cy="17" r="2"></circle>
+                <circle id="Oval-138" stroke="#333333" stroke-width="2" cx="18" cy="17" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
