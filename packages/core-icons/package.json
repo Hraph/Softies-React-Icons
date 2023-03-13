@@ -8,7 +8,10 @@
   "files": [
     "dist"
   ],
-  "repository": "git@github.com:Hraph/Softies-React-Icons.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Hraph/Softies-React-Icons.git"
+  },
   "homepage": "https://github.com/hraph/Softies-React-Icons#readme",
   "author": "Hraph",
   "license": "Apache-2.0",
@@ -22,5 +25,11 @@
   ],
   "devDependencies": {
     "@types/react": "^18.0.28"
+  },
+  "bugs": {
+    "url": "https://github.com/Hraph/Softies-React-Icons/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
