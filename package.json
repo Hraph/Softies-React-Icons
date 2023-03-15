@@ -12,7 +12,9 @@
   ],
   "scripts": {
     "prebuild": "ts-node src/generate.ts",
-    "build": "rollup --config rollup.config.mjs"
+    "build": "rollup --config rollup.config.mjs",
+    "publish:core": "npm publish --access public -w packages/core-icons",
+    "publish:custom": "npm publish --access public -w packages/custom-icons"
   },
   "dependencies": {
     "@svgr/core": "^6.2.0",
