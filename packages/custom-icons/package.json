@@ -1,6 +1,6 @@
 {
   "name": "@softies-react-icons/custom",
-  "version": "1.8.6",
+  "version": "1.8.7",
   "description": "A collection of SVG icons adapted from the Softies icon set by Robbie Pearce, designed for React.",
   "main": "dist/cjs/index.js",
   "module": "dist/index.js",
